@@ -891,6 +891,18 @@ footer{
     background-color: none;
     
 }
+    .Skills {
+        padding: 40px 3% 0 3%;
+        min-height: 100vh;
+    }
+    .Skills h1 {
+        font-size: 24px;
+        margin-bottom: 8px;
+    }
+    .Skills p {
+        font-size: 13px;
+        max-width: 95vw;
+    }
     
 
 }
