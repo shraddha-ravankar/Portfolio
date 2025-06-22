@@ -1,0 +1,46 @@
+# 💼 Personal Portfolio Website
+
+This is a **responsive personal portfolio website** built using **HTML and CSS**. It showcases my projects, skills, and provides contact information for collaboration or job opportunities.
+
+---
+
+## 🔍 Features
+
+- Responsive design for all screen sizes 📱💻
+- Clean, modern layout with easy navigation
+- Sections include:
+  - **Home**
+  - **About Me**
+  - **Projects**
+  - **Skills**
+  - **Contact**
+- Smooth scroll and hover effects using only CSS
+- Simple and fast — no frameworks or JavaScript
+
+---
+
+## 🚀 Technologies Used
+
+- **HTML5**
+- **CSS3**
+- (Optional: Add **Tailwind CSS** if used)
+  
+---
+
+## 🌐 Live Preview
+
+> 🔗 [Click here to view the live website](https://yourusername.github.io/your-repo-name/)
+
+*(Replace with your actual GitHub Pages URL)*
+
+---
+
+## 📁 Folder Structure
+portfolio/
+│
+├── index.html
+├── style.css
+├── /images
+│ └── (all image assets)
+└── README.md
+
